@@ -1,3 +1,5 @@
+package starwarsapi;
+
 import com.google.gson.Gson;
 import java.net.URI;
 import java.net.http.HttpClient;

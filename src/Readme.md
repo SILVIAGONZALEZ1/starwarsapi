@@ -27,7 +27,7 @@ Este proyecto interactúa con la API pública de Star Wars para consultar inform
 
 3. Asegúrate de tener la librería Gson configurada en tu `classpath`.
 
-4. Ejecuta el archivo `Principal.java` para comenzar.
+4. Ejecuta el archivo `starwarsapi.Principal.java` para comenzar.
 
 ## Uso 👨‍💻
 
@@ -40,7 +40,7 @@ Este proyecto interactúa con la API pública de Star Wars para consultar inform
 ```
 Escriba el número de la película de Star Wars que quiere consultar: 
 1
-Pelicula: Star Wars
+starwarsapi.Pelicula: Star Wars
 Director: George Lucas
 Fecha de estreno: 1977-05-25
 

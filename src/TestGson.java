@@ -1,4 +1,5 @@
 import com.google.gson.Gson;
+import starwarsapi.Pelicula;
 
 public class TestGson {
     public static void main(String[] args) {
